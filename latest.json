@@ -1,0 +1,11 @@
+{
+  "version": "1.29.0",
+  "date": "2026-11-18",
+  "url": "https://raw.githubusercontent.com/fernandohgbr-ui/textura-atualizacoes/versoes/Textura-Setup-1.29.0.exe",
+  "sha256": "aa06df9825b164a08b9267e2e9e2f61feb88ffc6111468508570f3d9d58389c7",
+  "notes": [
+    "Piloto automático: descreva uma tarefa e ela faz no PC sozinha, clicando e digitando enquanto você assiste. Esc para parar; antes de enviar, pagar ou apagar ela pergunta; nunca digita senha.",
+    "Treinador de live e pitch: ensaie falando e receba velocidade, vícios de linguagem, estrutura, as objeções dos seus clientes que você não respondeu e o trecho para regravar."
+  ],
+  "sig": "8W6/lfeiIDjXcRQjwMzGCbDf5XHLoSoCrLqekkCufITzjRHLlglqVAuPygDHFG2+TcMDH1e8xDNImETEtQ80DQ=="
+}
